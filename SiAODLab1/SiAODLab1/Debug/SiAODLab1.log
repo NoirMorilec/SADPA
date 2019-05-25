@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SiAODLab1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  active.cpp
+c:\users\leon\desktop\saod\siaodlab1\siaodlab1\active.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\leon\desktop\saod\siaodlab1\siaodlab1\active.cpp(52): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+c:\users\leon\desktop\saod\siaodlab1\siaodlab1\active.cpp(53): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+c:\users\leon\desktop\saod\siaodlab1\siaodlab1\active.cpp(56): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+c:\users\leon\desktop\saod\siaodlab1\siaodlab1\active.cpp(61): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+c:\users\leon\desktop\saod\siaodlab1\siaodlab1\active.cpp(64): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+c:\users\leon\desktop\saod\siaodlab1\siaodlab1\active.cpp(73): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+  SiAODLab1.vcxproj -> C:\Users\Leon\Desktop\SAOD\SiAODLab1\Debug\SiAODLab2.exe
+=======
+﻿  active.cpp
+  SiAODLab1.vcxproj -> C:\Users\Leon\Desktop\SiAODLab1\Debug\SiAODLab1.exe
+>>>>>>> master
